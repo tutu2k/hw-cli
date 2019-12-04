@@ -1,0 +1,6 @@
+"less.compile": {
+    "compress": true, 
+    "sourceMap": false, 
+    "minify":false,
+    "out": "${workspaceRoot}\\style\\",     
+}
