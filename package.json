@@ -1,0 +1,28 @@
+{
+  "name": "hw-cli",
+  "version": "1.0.0",
+  "description": "HUAWEI PDP CLI",
+  "main": "./index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tutu2k/hw-cli.git"
+  },
+  "keywords": [],
+  "author": "Simon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tutu2k/hw-cli/issues"
+  },
+  "homepage": "https://github.com/tutu2k/hw-cli#readme",
+  "devDependencies": {
+    "webpack-dev-server": "^3.9.0"
+  },
+  "dependencies": {
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  }
+}
