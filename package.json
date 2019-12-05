@@ -2,10 +2,10 @@
   "name": "hw-cli",
   "version": "1.0.0",
   "description": "HUAWEI PDP CLI",
-  "main": "./index.html",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "webpack-dev-server"
+    "dev": "webpack-dev-server --hot"
   },
   "repository": {
     "type": "git",
@@ -22,6 +22,9 @@
     "webpack-dev-server": "^3.9.0"
   },
   "dependencies": {
+    "clean-webpack-plugin": "^3.0.0",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "html-webpack-plugin": "^3.2.0",
     "webpack": "^4.41.2",
     "webpack-cli": "^3.3.10"
   }
