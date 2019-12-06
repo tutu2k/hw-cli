@@ -1,6 +1,6 @@
 {
   "name": "hw-cli",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "HUAWEI PDP CLI",
   "main": "index.html",
   "scripts": {
@@ -12,7 +12,7 @@
     "url": "git+https://github.com/tutu2k/hw-cli.git"
   },
   "keywords": [],
-  "author": "Simon",
+  "author": "tutu2k",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/tutu2k/hw-cli/issues"
